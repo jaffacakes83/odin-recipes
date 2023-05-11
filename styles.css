@@ -1,0 +1,21 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 18px;
+    background-color: azure;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
